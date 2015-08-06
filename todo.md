@@ -12,3 +12,5 @@
 8. Work out some way of handling different users. 
 9. Add in functionality for recording other metrics e.g. resting heart rate, water consumed each day, amount of sleep, etc. Potentially allow the user to add custom metrics.
 10. Plot this data.
+
+<sup>1</sup> These should be compatible with Django if possible. Otherwise, we will have to write something ourselves.
