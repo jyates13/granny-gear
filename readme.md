@@ -19,6 +19,7 @@ Some features that I hope to include:
 
 Modules we will need:
 numpy
-gpxpy
+gpxpy (read in gpx files)
 matplotlib?
 A module to read in .fit files (maybe fitparse?)
+geopy (geographical tools, eg distance between two lat/lon points)
