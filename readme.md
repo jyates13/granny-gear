@@ -15,3 +15,10 @@ Some features that I hope to include:
 * a nice GUI
 * suggest training plans (more difficult).
 
+** Assuming we're doing all this in Python we'll need to make sure we all have the same standard modules (eg numpy etc). 
+
+Modules we will need:
+numpy
+gpxpy
+matplotlib?
+A module to read in .fit files (maybe fitparse?)
